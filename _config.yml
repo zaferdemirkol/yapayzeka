@@ -1,0 +1,12 @@
+theme: jekyll-theme-cayman
+remote_theme: pmarsceill/just-the-docs
+
+title: Yapay Zeka
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
+
+heading_anchors: true
+
+footer_content: "Copyright &copy; 2017-2019 Zafer Demirkol."
+
+
