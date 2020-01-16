@@ -28,20 +28,27 @@ Bir metni başlık olarak yazmak için başına # işaretleri koymalısınız, k
 
 Bir metni kalın (bold) veya eğik (italic) yazmak için aşağıdaki ifadeler kullanılır:
 
-```markdown
-Eğik metin yazdırmak için başına ve sonuna "\*" veya "\_" konur:
+Eğik metin yazdırmak için başına ve sonuna \* veya \_ konur:
 
-_Bu metin eğik(italic) yazılır_
+```
+*Bu metin eğik(italic) yazılır*
+
 _Bu şekilde de eğik(italic) yazdırabilirsiniz_
 
-Kalın (Bold) metin yazdırmak için başına ve sonuna "**" veya "\_\_" konur:
-**Bu metin kalın(bold) yazılır\*\*
-**Bu metin de kalın(bold) yazılır**
+```
+
+Kalın (Bold) metin yazdırmak için başına ve sonuna \*\* veya \_\_ konur:
+
+```
+**Bu metin kalın(bold) yazılır**
+
+__Bu metin de kalın(bold) yazılır__
+
+```
 
 İkisini bir arada kullanabilirsiniz:
 
-_Bu hem eğik hem de **burası kalın(bold)** yazılmış bir metindir_
-```
+`_Bu hem eğik hem de **burası kalın(bold)** yazılmış bir metindir_`
 
 # Listeler
 
@@ -49,11 +56,11 @@ Sıralı veya sırasız listeler oluşturabilirsiniz.
 
 ### Sırasız liste:
 
-```markdown
-- Birim 1
-- Birim 2
-  - Birim 2a
-  - Birim 2b
+```
+* Birim 1
+* Birim 2
+  * Birim 2a
+  * Birim 2b
 ```
 
 - Birim 1
