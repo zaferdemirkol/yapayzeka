@@ -1,6 +1,6 @@
 ---
 layout: default
-title: github
+title: GitHub
 nav_order: 3
 has_children: true
 permalink: /github

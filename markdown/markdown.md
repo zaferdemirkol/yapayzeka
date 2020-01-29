@@ -1,6 +1,6 @@
 ---
 layout: default
-title: markdown
+title: Markdown
 nav_order: 2
 has_children: false
 permalink: /markdown
@@ -63,7 +63,26 @@ Sıralı veya sırasız listeler oluşturabilirsiniz.
   * Birim 2b
 ```
 
+```
 - Birim 1
 - Birim 2
   - Birim 2a
   - Birim 2b
+```
+
+### Sıralı liste:
+
+```
+1. Birim 1
+2. Birim 2
+    1. Birim 2a
+    2. Birim 2b
+3. Birim 3
+
+```
+
+1. Birim 1
+2. Birim 2
+   1. Birim 2a
+   2. Birim 2b
+3. Birim 3

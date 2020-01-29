@@ -73,4 +73,5 @@ virtualenv --version
 which python
 which ipython
 
+jupyter kernelspec list
 ```

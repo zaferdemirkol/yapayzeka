@@ -75,5 +75,5 @@ Visual studio code ile çalışmak için settings.json dosyasına şu ekleme yap
 # Aşağıdaki sorgulamalar yapılarak sistemde kurulu ortamların yol tanımları elde edilebilir
 where python
 where ipython
-
+jupyter kernelspec list
 ```
