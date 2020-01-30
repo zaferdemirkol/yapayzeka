@@ -1,6 +1,6 @@
 ## Yapay Zeka
 
-![yapay zeka](/yapayzeka/resimler/yzPoster.png)
+![yapay zeka](https://zaferdemirkol.github.io/yapayzeka/resimler/yzPoster.png)
 
 https://zaferdemirkol.github.io/yapayzeka sayfasına ait GitHub Dokümantasyonu.
 
