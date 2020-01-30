@@ -1,5 +1,7 @@
 ## Yapay Zeka
 
+![yapay zeka](/yapayzeka/resimler/yzPoster.png)
+
 https://zaferdemirkol.github.io/yapayzeka sayfasına ait GitHub Dokümantasyonu.
 
 Bu GitHub sayfamda yapay zekayı ve daha da genel olarak gelecek becerilerini oluşturan temel teknolojileri teknik olarak anlatmaya çalışacağım. Maalesef çok fazla zamanım olmuyor, ama bir şekilde özellikle bu konuya yeni başlayanlara kılavuzluk etmek için açık kaynaklar oluşturmak istiyorum.

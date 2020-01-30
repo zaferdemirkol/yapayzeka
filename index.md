@@ -1,5 +1,7 @@
 # Yapay Zeka Öğretici İçerik Çalışması
 
+![yapay zeka](/yapayzeka/resimler/yzPoster.png)
+
 Gelecek teknolojileri yapay zeka üzerine tesis edilecek.
 
 Yapay zekaya giden yolda temel pek çok teknolojiyi, disiplini öğrenmek gerekir.
