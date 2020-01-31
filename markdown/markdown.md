@@ -86,3 +86,26 @@ Sıralı veya sırasız listeler oluşturabilirsiniz.
    1. Birim 2a
    2. Birim 2b
 3. Birim 3
+
+
+### Link ekleme
+
+```
+[Buraya tıklayarak](https://google.com.tr) google.com.tr adresine gidebilirsiniz.
+
+```
+____________________________________
+[Buraya tıklayarak](https://google.com.tr) google.com.tr adresine gidebilirsiniz.
+__________________
+
+
+### Resim ekleme
+
+```
+![açıklama yazısı](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+link vermeden farkı: köşeli parantezden önceki ünlem işareti. URL ise resim URLsi.
+```
+
+___________
+![açıklama yazısı](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+___________
